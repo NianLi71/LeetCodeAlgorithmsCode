@@ -3,6 +3,7 @@ from stack import Stack
 def parChecker2(inputStr):
     '''
     Check if parentheses are pairing.
+    https://leetcode.com/problems/valid-parentheses/
     '''
     left_set = '([{'
     right_set = ')]}'
